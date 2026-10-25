@@ -251,10 +251,7 @@ The application underwent rigorous verification across functional, security, and
 
 - **Course:** CS619 - Final Year Project (Virtual University of Pakistan)
 - **Project Title:** Automated Ripeness Detection of Fruits
-- **Group ID:** `F24PROJECT905CD`
-- **Supervisor:** Zaid Ismail
-- **Author / Student ID:** `BC210423321`
-- **Academic Term:** Fall 2024 / Spring 2025
+
 
 ---
 
