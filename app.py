@@ -129,7 +129,7 @@ with st.sidebar:
             "📊 Model Performance & Metrics",
             "🏗️ System Architecture & Design",
             "🧪 Test Cases & Validation",
-            "👥 Academic Project Info"
+            "👥 Project & Author Info"
         ]
     )
     
@@ -489,25 +489,23 @@ elif menu == "🧪 Test Cases & Validation":
 
 
 # -------------------------------------------------------------
-# PAGE 6: ACADEMIC PROJECT INFO
+# PAGE 6: PROJECT & AUTHOR INFO
 # -------------------------------------------------------------
-elif menu == "👥 Academic Project Info":
-    st.title("👥 Academic Project & Contributors")
+elif menu == "👥 Project & Author Info":
+    st.title("👥 Project Information & Author")
     st.markdown("""
-    This project is submitted as the Final Year Capstone Project (**CS619**) for the 
-    Bachelor of Science in Computer Science at **Virtual University of Pakistan**.
+    **AI Automated Fruit Ripeness Detection & Classification System**
+    Developed by **Abdullah Irshad**.
     """)
     
     col1, col2 = st.columns(2)
     with col1:
         st.markdown("""
-        ### 🎓 Project Details
-        - **Course:** CS619 - Final Year Project
-        - **Project Title:** Automated Ripeness Detection of Fruits
-        - **Group ID:** `F24PROJECT905CD`
-        - **Supervisor:** Zaid Ismail
-        - **Author / Student ID:** `BC210423321`
-        - **Academic Term:** Fall 2024 / Spring 2025
+        ### 👨‍💻 Author Details
+        - **Author / Developer:** Abdullah Irshad
+        - **Project Title:** AI Automated Fruit Ripeness Detection
+        - **Domain:** Deep Learning & Computer Vision
+        - **Core Stack:** Python, TensorFlow, Keras, Streamlit, SQLite
         """)
     with col2:
         st.markdown("""

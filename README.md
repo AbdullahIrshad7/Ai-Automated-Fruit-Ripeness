@@ -247,11 +247,13 @@ The application underwent rigorous verification across functional, security, and
 
 ---
 
-## 👥 Academic & Project Information
+## 👥 Project Information & Author
 
+- **Author / Developer:** Abdullah Irshad
+- **Project Title:** AI Automated Fruit Ripeness Detection System
 - **Course:** CS619 - Final Year Project (Virtual University of Pakistan)
-- **Project Title:** Automated Ripeness Detection of Fruits
-
+- **Domain:** Artificial Intelligence & Computer Vision (Deep Learning)
+- **Key Technologies:** Python, TensorFlow, Keras, Streamlit, SQLite
 
 ---
 
