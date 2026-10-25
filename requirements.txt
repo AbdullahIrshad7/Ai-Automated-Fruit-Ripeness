@@ -1,0 +1,13 @@
+# Core Web App & Visualization
+streamlit>=1.28.0
+pillow>=9.5.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+pandas>=2.0.0
+
+# Deep Learning Framework (Optional for local inference)
+# Note: The Streamlit app includes an intelligent heuristic fallback classifier
+# so it can run immediately even without heavy TensorFlow installation.
+tensorflow>=2.12.0

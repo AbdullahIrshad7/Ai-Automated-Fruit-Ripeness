@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Compressed archives & large temporary files
+*.rar
+*.zip
+*.tar.gz
+*.7z
+
+# Machine Learning Models (over GitHub 100MB limit)
+*.h5
+*.hdf5
+*.keras
+*.pt
+*.pth
+*.ckpt
+*.tflite
+*.onnx
+
+# Training / Test raw datasets (Fruits-360 raw images)
+Training/
+Test/
+fruits-360/
+dataset/
+
+# SQLite databases & runtime data
+*.db
+*.sqlite3
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
