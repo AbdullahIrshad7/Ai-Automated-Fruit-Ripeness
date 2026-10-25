@@ -20,7 +20,7 @@ from src.database import init_db, log_prediction, get_recent_predictions, get_db
 
 # Page Configuration
 st.set_page_config(
-    page_title="Fruit Ripeness Detection & Classification",
+    page_title="AI Automated Fruit Ripeness Detection",
     page_icon="🍎",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -118,7 +118,7 @@ st.markdown("""
 # Sidebar Navigation
 with st.sidebar:
     st.image("assets/banner.jpeg" if os.path.exists("assets/banner.jpeg") else "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=600&q=80", use_container_width=True)
-    st.title("🍎 Fruit Ripeness AI")
+    st.title("🍎 AI Fruit Ripeness")
     st.caption("Automated Multi-Class Classification & Freshness Grading")
     
     menu = st.radio(
@@ -152,7 +152,7 @@ with st.sidebar:
 if menu == "🏠 Overview & Dashboard":
     st.markdown("""
     <div class="main-header">
-        <h1 style="margin: 0; font-size: 2.4rem; font-weight: 800;">Automated Fruit Ripeness Detection System</h1>
+        <h1 style="margin: 0; font-size: 2.4rem; font-weight: 800;">AI Automated Fruit Ripeness Detection System</h1>
         <p style="margin-top: 0.8rem; font-size: 1.1rem; opacity: 0.9; max-width: 900px;">
             A state-of-the-art Deep Learning Computer Vision solution for automated fruit identification, 
             maturity grading, and ripeness quality assessment built with Convolutional Neural Networks (CNN).

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍎 Automated Fruit Ripeness Detection & Classification System
+# 🍎 AI Automated Fruit Ripeness Detection System
 
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg?logo=tensorflow&logoColor=white)](https://tensorflow.org/)
@@ -25,7 +25,7 @@
 
 In traditional agriculture, post-harvest supply chains, and retail supermarkets, evaluating fruit maturity relies heavily on manual human inspection. This approach is labor-intensive, subjective, and prone to human error, resulting in millions of tons of avoidable food waste every year.
 
-The **Automated Fruit Ripeness Detection System** solves this challenge by deploying a high-precision **Convolutional Neural Network (CNN)** capable of classifying **131 distinct fruit varieties and maturity levels** with a benchmark test accuracy of **97.52%**. 
+The **AI Automated Fruit Ripeness Detection System** solves this challenge by deploying a high-precision **Convolutional Neural Network (CNN)** capable of classifying **131 distinct fruit varieties and maturity levels** with a benchmark test accuracy of **97.52%**. 
 
 The system features:
 - **Interactive Streamlit Web Dashboard:** Clean, responsive web interface for instant image uploads, quality grading, confidence scoring, shelf-life estimation, and storage guidance.
@@ -195,8 +195,8 @@ streamlit run app.py
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/fruit-ripeness-detection.git
-cd fruit-ripeness-detection
+git clone https://github.com/AbdullahIrshadShah/ai-automated-fruit-ripeness.git
+cd ai-automated-fruit-ripeness
 ```
 
 ### 2. Create and Activate a Virtual Environment

@@ -1,6 +1,6 @@
-# 🧪 Software Test Cases & Verification Matrix
+# 🧪 Software Test Cases & Verification Matrix - AI Automated Fruit Ripeness Detection
 
-This document records the official verification and quality assurance test suite for the **Automated Fruit Ripeness Detection System**, matching the CS619 Design Document specifications.
+This document records the official verification and quality assurance test suite for the **AI Automated Fruit Ripeness Detection System**, matching the CS619 Design Document specifications.
 
 ---
 

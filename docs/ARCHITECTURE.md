@@ -1,7 +1,7 @@
-# 🏛️ System Architecture Specification
+# 🏛️ AI Automated Fruit Ripeness Detection - Architecture Specification
 
 ## 1. Executive Summary
-The **Automated Fruit Ripeness Detection & Classification System** is an enterprise-grade Computer Vision application. The system eliminates subjectivity and manual delays in agricultural sorting, grocery inventory management, and post-harvest quality assessment by performing non-destructive optical ripeness grading across **131 distinct fruit categories and varieties**.
+The **AI Automated Fruit Ripeness Detection & Classification System** is an enterprise-grade Computer Vision application. The system eliminates subjectivity and manual delays in agricultural sorting, grocery inventory management, and post-harvest quality assessment by performing non-destructive optical ripeness grading across **131 distinct fruit categories and varieties**.
 
 ---
 
